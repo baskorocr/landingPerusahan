@@ -1,0 +1,49 @@
+{
+  "main": [
+    {
+      "name": "Beranda",
+      "url": "/"
+    },
+    {
+      "name": "Sertifikat",
+      "url": "/certificate"
+    },
+    {
+      "name": "Kontak",
+      "url": "/contact"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Maps",
+      "menu": [
+        {
+          "text": "PT. SOLUTAMA SUPCOINDO, Komplek pergudangan ecospace no 8, KIIC, kel margakaya, teluk jambe karawang, Jawa Barat, Jawa Barat",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "menu": [
+        {
+          "text": "",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        }
+      ]
+    }
+  ]
+}
